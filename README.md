@@ -1,2 +1,2 @@
 # BalanceTheBottle
-A stupid random game made with unity.
+A random game made with unity. (Yet to be completed)
